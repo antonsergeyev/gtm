@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/BurntSushi/toml"
-	"github.com/rwynn/gtm/v2"
+	"github.com/antonsergeyev/gtm/v2"
 	"github.com/serialx/hashring"
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
